@@ -1,6 +1,8 @@
 # DataLens
-
 DataLens is a powerful and user-friendly data exploration tool designed to help users quickly analyze and visualize their datasets. It supports file upload in CSV and Excel formats and provides insights such as data types, missing values, unique values, time series analysis, and text analysis (e.g., most frequent words).
+
+![DataLens](image.png)
+
 
 ## Features
 
