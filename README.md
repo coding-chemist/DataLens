@@ -5,12 +5,7 @@ DataLens is a powerful and user-friendly data exploration tool designed to help 
 
 ## Tech Stack
 
-![Streamlit](https://img.shields.io/badge/Streamlit-1.40.2-red?logo=streamlit)  
-![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue?logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-2.1.3-teal?logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.2-orange?logo=python)  
-![NLTK](https://img.shields.io/badge/NLTK-3.9.1-green?logo=python)  
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1.5-yellow?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.40.2-red?logo=streamlit)  ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue?logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-2.1.3-teal?logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.2-orange?logo=python)  ![NLTK](https://img.shields.io/badge/NLTK-3.9.1-green?logo=python)  ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1.5-yellow?logo=python)
 
 
 ## Features
