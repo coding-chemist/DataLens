@@ -24,7 +24,7 @@ To install and set up the DataLens project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/datalens.git
+    git clone https://github.com/coding-chemist/DataLens.git
     cd datalens
     ```
 
